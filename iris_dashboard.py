@@ -76,10 +76,8 @@ except:
 st.sidebar.title("👥 Información del Equipo")
 st.sidebar.markdown("""
 **Integrantes:**
-- Estudiante 1
-- Estudiante 2
-- Estudiante 3
-- Estudiante 4
+-ALEJANDRO ESCORCIA
+-ASHLEY URUETA
 
 **Profesor:**
 José Escorcia-Gutierrez, Ph.D.
