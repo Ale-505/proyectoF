@@ -107,5 +107,5 @@ El modelo Random Forest alcanza una precisión superior al **95%** en la clasifi
 
 ## 🎥 Video de Presentación
 
-[Enlace al video de presentación del proyecto]
+https://youtu.be/yGeWYjP_tMI
 
